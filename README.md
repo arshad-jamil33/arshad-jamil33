@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=KimChi;Android+ROM+Developer;Kernel+Builder;Open+Source+Hacker" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=KimChi;Android+ROM+Developer;Kernel+Builder;Open+Source+Contributor" />
 </h1>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6e00ff&height=200&section=header&text=Android%20DEV&fontSize=40&fontColor=ffffff"/>
