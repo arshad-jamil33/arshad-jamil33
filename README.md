@@ -27,6 +27,16 @@ Status: Building Future ⚡
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00F7FF&height=120&section=footer"/>
 </p>
 :::
+<p align="center">
+<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="350"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Device-Miatoll/Surya-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android-16-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kernel-Custom-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+</p>
+
 
 
 
